@@ -1,6 +1,6 @@
 # Motion-Detection-using-Image-Processing
 ## Table of contents
-* [Project's brief description](#general-info)
+* [Project's brief description](#project's-brief-description)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
