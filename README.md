@@ -9,7 +9,7 @@ In case of thefts and unauthorized gate entries, organizations that want securit
 	
 ## Technologies
 Hardware Interface:
-* Raspberry Pi
+* Raspberry Pi 4
 * Camera : Digital cameras are used in image acquisition stage. They are primarily used in obtaining images or video footage.
 * Memory Card
 
@@ -23,7 +23,9 @@ Operating Environment:
 * Werkzeug 1.0.1
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install Raspbian operating system on Raspberry pi 4.
+Make virtual environment and install OpenCV 3.
+
 
 ```
 $ cd ../lorem
