@@ -23,12 +23,8 @@ Operating Environment:
 * Werkzeug 1.0.1
 	
 ## Setup
-To run this project, install Raspbian operating system on Raspberry pi 4.
-Make virtual environment and install OpenCV 3.
-
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+To run this project:
+* Install Raspbian operating system on Raspberry pi 4.
+* Make virtual environment and install OpenCV 3.
+* To stream motion detected frame on web brower as well as save frame with time in database run this command-
+* ../python new_live_streaming.py --config/config.json
