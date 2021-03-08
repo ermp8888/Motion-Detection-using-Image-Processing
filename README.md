@@ -25,7 +25,7 @@ Operating Environment:
 ## Setup
 To run this project:
 * Install Raspbian operating system on Raspberry pi 4.
-* Make virtual environment and install OpenCV 3.
+* Make virtual environment and install OpenCV 3 and project related libaries.
 * To stream motion detected frame on web brower as well as save frame with time in database run this command 
 
 ```
