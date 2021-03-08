@@ -5,7 +5,6 @@
 * [Setup](#setup)
 
 ## Project's brief description
-
 In case of thefts and unauthorized gate entries, organizations that want security can use this motion detection model for motion detection. This model will detect any motion, such as living object motion and non-living object motion. It provides motion-detected frames with time stamping to the organization. Motion detected frames could also be live-streamed on the web browser.
 	
 ## Technologies
